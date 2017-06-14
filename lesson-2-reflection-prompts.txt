@@ -1,0 +1,47 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+初始化存储库时会发生什么？你为什么需要这样做？
+
+登台区如何与工作目录和存储库不同？
+你认为它有什么价值？
+
+如何使用分段区域确保每个逻辑有一个提交
+更改？
+
+当分支机构有助于保持你的历史时，有什么情况呢？
+组织的？分支机构如何帮助？
+
+图表如何帮助您可视化分支结构？
+
+将两个分支合并在一起的结果是什么？为什么我们代表它
+图我们做的方式
+
+Git的自动合并与总是做合并有什么利弊
+手动？
+
+
+如何使用暂存区确保为每项逻辑更改进行一次提交？
+
+在哪些情况下，分支可以帮助你有序地组织历史记录？分支将如何提供帮助？
+
+图表如何帮助你直观显示分支结构？
+
+将两个分支合并到一起有何结果？为什么我们在图表中表示它的方式是那样的？
+
+Git 的自动合并与始终手动进行合并各有何优缺点？
